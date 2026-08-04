@@ -1,0 +1,22 @@
+STATISTICAL ANALYSIS REPORT
+========================================
+
+Dataset Shape : (1192, 20)
+
+PEARSON CORRELATION
+Correlation : 0.6084
+P-Value : 0.0000
+
+SHAPIRO-WILK NORMALITY TEST
+Statistic : 0.9206
+P-Value : 0.0000
+
+ANOVA TEST
+Statistic : 1.1745
+P-Value : 0.3203
+
+CHI-SQUARE TEST
+Statistic : 5.4583
+P-Value : 0.2434
+
+Result : No significant relationship found.

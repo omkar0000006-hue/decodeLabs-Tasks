@@ -1,0 +1,26 @@
+ADVANCED EDA & FEATURE ENGINEERING REPORT
+=============================================
+
+Dataset Shape : (1192, 20)
+
+Total Revenue : $1,237,728.56
+Average Order Value : $1,038.36
+Total Customers : 1182
+Total Products : 7
+Highest Order Value : $3,322.55
+Lowest Order Value : $11.39
+
+Top Selling Product : Printer
+Most Used Payment Method : Online
+Most Common Referral Source : Instagram
+
+Order Status Distribution
+Cancelled : 248
+Returned : 245
+Pending : 237
+Shipped : 234
+Delivered : 228
+
+High Value Orders : 596
+Orders Using Coupon : 885
+Orders Without Coupon : 307
