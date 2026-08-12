@@ -1,0 +1,5 @@
+Cluster,PersonaName,CustomerCount,TotalPrice,AverageOrderValue,Quantity,CustomerOrderFrequency,CouponUsed,HighValueOrder,SuggestedAction
+0,Deal-Driven Budget Shoppers,277,592.5,153.49,3.94,1.01,1.0,0.28,"Flash sales, coupon-triggered campaigns, referral incentives."
+1,Frequent Bargain Shoppers,230,775.01,528.43,1.48,1.02,1.0,0.41,"Bundle deals, subscription/loyalty programs to increase basket size."
+2,High-Value Loyalists,428,1974.72,496.69,4.0,1.02,1.0,1.0,"VIP perks, early access, loyalty rewards to retain them."
+3,Frequent Bargain Shoppers,265,291.35,192.66,1.49,1.03,1.0,0.0,"Bundle deals, subscription/loyalty programs to increase basket size."
