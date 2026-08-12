@@ -1,0 +1,1201 @@
+review_id,product,order_status,review_text,sentiment
+ORD200000,Monitor,Shipped,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200001,Phone,Shipped,"This phone is not bad at all, actually pretty amazing for the price.",Positive
+ORD200002,Tablet,Cancelled,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200003,Chair,Returned,"This chair is not worth the price, very disappointing.",Negative
+ORD200004,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD200005,Phone,Shipped,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200006,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200007,Monitor,Shipped,"Best monitor I have bought this year, five stars.",Positive
+ORD200008,Phone,Cancelled,"This phone is not worth the price, very disappointing.",Negative
+ORD200009,Desk,Shipped,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD200010,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200011,Monitor,Returned,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200012,Monitor,Pending,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200013,Laptop,Returned,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200014,Tablet,Pending,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200015,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD200016,Printer,Pending,"Great value for money, the printer works flawlessly.",Positive
+ORD200017,Tablet,Shipped,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD200018,Desk,Pending,"This desk is not worth the price, very disappointing.",Negative
+ORD200019,Monitor,Returned,The monitor never worked properly from day one.,Negative
+ORD200020,Chair,Pending,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200021,Monitor,Delivered,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200022,Monitor,Pending,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200023,Phone,Cancelled,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200024,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200025,Monitor,Delivered,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD200026,Laptop,Delivered,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200027,Printer,Shipped,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200028,Phone,Pending,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200029,Desk,Delivered,"Great value for money, the desk works flawlessly.",Positive
+ORD200030,Monitor,Pending,"Super happy with my monitor purchase, no complaints so far.",Positive
+ORD200031,Chair,Returned,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200032,Tablet,Delivered,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD200033,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200034,Chair,Pending,I was worried at first but the chair turned out to be really good.,Positive
+ORD200035,Monitor,Shipped,"Best monitor I have bought this year, five stars.",Positive
+ORD200036,Laptop,Pending,"Great value for money, the laptop works flawlessly.",Positive
+ORD200037,Laptop,Returned,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD200038,Laptop,Delivered,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200039,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD200040,Desk,Delivered,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200041,Monitor,Pending,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200042,Printer,Cancelled,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200043,Chair,Cancelled,Shipping took forever and the chair was not even functional.,Negative
+ORD200044,Phone,Returned,Shipping took forever and the phone was not even functional.,Negative
+ORD200045,Chair,Returned,"I am not happy with this chair, complete waste of money.",Negative
+ORD200046,Monitor,Pending,"Best monitor I have bought this year, five stars.",Positive
+ORD200047,Desk,Returned,"Regret buying this desk, customer service was no help either.",Negative
+ORD200048,Monitor,Shipped,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200049,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200050,Tablet,Cancelled,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200051,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200052,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200053,Phone,Returned,"I am not happy with this phone, complete waste of money.",Negative
+ORD200054,Chair,Pending,The chair never worked properly from day one.,Negative
+ORD200055,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200056,Tablet,Cancelled,Shipping took forever and the tablet was not even functional.,Negative
+ORD200057,Printer,Returned,"This printer is not worth the price, very disappointing.",Negative
+ORD200058,Phone,Cancelled,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200059,Chair,Shipped,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200060,Desk,Returned,"This desk is not worth the price, very disappointing.",Negative
+ORD200061,Desk,Delivered,"Great value for money, the desk works flawlessly.",Positive
+ORD200062,Desk,Pending,I was worried at first but the desk turned out to be really good.,Positive
+ORD200063,Chair,Shipped,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD200064,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200065,Monitor,Delivered,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200066,Chair,Cancelled,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200067,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200068,Chair,Pending,"This chair is not worth the price, very disappointing.",Negative
+ORD200069,Monitor,Shipped,"Excellent monitor, would definitely buy again. Highly recommend!",Positive
+ORD200070,Desk,Pending,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200071,Monitor,Pending,"This monitor is not worth the price, very disappointing.",Negative
+ORD200072,Tablet,Returned,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200073,Monitor,Cancelled,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200074,Phone,Pending,"Great value for money, the phone works flawlessly.",Positive
+ORD200075,Tablet,Delivered,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200076,Laptop,Cancelled,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200077,Phone,Returned,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200078,Printer,Delivered,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200079,Tablet,Shipped,"This tablet is not worth the price, very disappointing.",Negative
+ORD200080,Phone,Returned,"I am not happy with this phone, complete waste of money.",Negative
+ORD200081,Monitor,Shipped,"Best monitor I have bought this year, five stars.",Positive
+ORD200082,Tablet,Shipped,"Best tablet I have bought this year, five stars.",Positive
+ORD200083,Laptop,Cancelled,The laptop never worked properly from day one.,Negative
+ORD200084,Monitor,Shipped,"This monitor is not worth the price, very disappointing.",Negative
+ORD200085,Tablet,Delivered,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD200086,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200087,Tablet,Shipped,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200088,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD200089,Printer,Cancelled,"The printer is not what I expected, poor quality overall.",Negative
+ORD200090,Chair,Delivered,"Great value for money, the chair works flawlessly.",Positive
+ORD200091,Laptop,Shipped,"Best laptop I have bought this year, five stars.",Positive
+ORD200092,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200093,Desk,Returned,"The desk exceeded my expectations, great quality and fast shipping!",Positive
+ORD200094,Chair,Returned,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200095,Printer,Returned,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200096,Phone,Delivered,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200097,Tablet,Pending,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200098,Printer,Pending,"Regret buying this printer, customer service was no help either.",Negative
+ORD200099,Printer,Cancelled,"The printer is not what I expected, poor quality overall.",Negative
+ORD200100,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD200101,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200102,Laptop,Cancelled,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200103,Phone,Cancelled,Shipping took forever and the phone was not even functional.,Negative
+ORD200104,Phone,Delivered,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200105,Printer,Cancelled,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200106,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200107,Printer,Shipped,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200108,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200109,Desk,Shipped,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200110,Tablet,Pending,"Super happy with my tablet purchase, no complaints so far.",Positive
+ORD200111,Desk,Cancelled,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200112,Monitor,Cancelled,"This monitor is not worth the price, very disappointing.",Negative
+ORD200113,Laptop,Shipped,"Best laptop I have bought this year, five stars.",Positive
+ORD200114,Monitor,Pending,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200115,Phone,Shipped,"The phone is not what I expected, poor quality overall.",Negative
+ORD200116,Printer,Cancelled,Shipping took forever and the printer was not even functional.,Negative
+ORD200117,Tablet,Cancelled,The tablet never worked properly from day one.,Negative
+ORD200118,Printer,Shipped,"I am not happy with this printer, complete waste of money.",Negative
+ORD200119,Desk,Shipped,I was worried at first but the desk turned out to be really good.,Positive
+ORD200120,Tablet,Cancelled,Shipping took forever and the tablet was not even functional.,Negative
+ORD200121,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD200122,Laptop,Shipped,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200123,Desk,Delivered,"Super happy with my desk purchase, no complaints so far.",Positive
+ORD200124,Printer,Pending,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200125,Phone,Shipped,"Best phone I have bought this year, five stars.",Positive
+ORD200126,Desk,Shipped,"Great value for money, the desk works flawlessly.",Positive
+ORD200127,Desk,Shipped,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200128,Tablet,Delivered,"Best tablet I have bought this year, five stars.",Positive
+ORD200129,Laptop,Shipped,"Best laptop I have bought this year, five stars.",Positive
+ORD200130,Desk,Cancelled,"I am not happy with this desk, complete waste of money.",Negative
+ORD200131,Tablet,Pending,"Absolutely love this tablet, works perfectly and arrived on time.",Positive
+ORD200132,Tablet,Shipped,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD200133,Chair,Cancelled,"Regret buying this chair, customer service was no help either.",Negative
+ORD200134,Laptop,Pending,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200135,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200136,Laptop,Cancelled,"Regret buying this laptop, customer service was no help either.",Negative
+ORD200137,Monitor,Delivered,"Great value for money, the monitor works flawlessly.",Positive
+ORD200138,Tablet,Pending,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200139,Phone,Returned,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200140,Chair,Delivered,I was worried at first but the chair turned out to be really good.,Positive
+ORD200141,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200142,Desk,Pending,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200143,Chair,Shipped,The chair is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200144,Desk,Pending,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200145,Printer,Delivered,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200146,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200147,Laptop,Cancelled,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200148,Phone,Cancelled,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200149,Laptop,Delivered,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200150,Phone,Returned,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200151,Printer,Returned,"This printer is not worth the price, very disappointing.",Negative
+ORD200152,Chair,Cancelled,"Best chair I have bought this year, five stars.",Positive
+ORD200153,Chair,Returned,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200154,Phone,Pending,"I am not happy with this phone, complete waste of money.",Negative
+ORD200155,Phone,Shipped,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200156,Chair,Delivered,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200157,Monitor,Returned,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200158,Tablet,Pending,"Great value for money, the tablet works flawlessly.",Positive
+ORD200159,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200160,Monitor,Pending,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200161,Monitor,Cancelled,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200162,Chair,Pending,I was worried at first but the chair turned out to be really good.,Positive
+ORD200163,Tablet,Cancelled,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200164,Desk,Pending,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200165,Monitor,Returned,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200166,Chair,Delivered,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200167,Chair,Returned,The chair never worked properly from day one.,Negative
+ORD200168,Printer,Returned,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200169,Printer,Delivered,"Excellent printer, would definitely buy again. Highly recommend!",Positive
+ORD200170,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200171,Tablet,Delivered,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD200172,Printer,Delivered,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200173,Phone,Delivered,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200174,Printer,Delivered,"The printer is not what I expected, poor quality overall.",Negative
+ORD200175,Chair,Pending,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200176,Tablet,Pending,"Best tablet I have bought this year, five stars.",Positive
+ORD200177,Chair,Pending,The chair never worked properly from day one.,Negative
+ORD200178,Chair,Delivered,"I am not happy with this chair, complete waste of money.",Negative
+ORD200179,Laptop,Delivered,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200180,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200181,Printer,Shipped,"The printer was not good, arrived damaged and support was unhelpful.",Negative
+ORD200182,Desk,Pending,"Great value for money, the desk works flawlessly.",Positive
+ORD200183,Monitor,Delivered,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200184,Tablet,Cancelled,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200185,Laptop,Shipped,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200186,Phone,Pending,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200187,Chair,Returned,"The chair is not what I expected, poor quality overall.",Negative
+ORD200188,Chair,Shipped,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200189,Printer,Cancelled,"The printer is not what I expected, poor quality overall.",Negative
+ORD200190,Printer,Returned,"The printer is not what I expected, poor quality overall.",Negative
+ORD200191,Laptop,Cancelled,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD200192,Desk,Cancelled,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200193,Printer,Cancelled,"This printer is not worth the price, very disappointing.",Negative
+ORD200194,Monitor,Shipped,"Best monitor I have bought this year, five stars.",Positive
+ORD200195,Chair,Cancelled,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200196,Desk,Delivered,"Super happy with my desk purchase, no complaints so far.",Positive
+ORD200197,Laptop,Returned,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD200198,Laptop,Cancelled,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200199,Phone,Returned,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200200,Tablet,Delivered,"Best tablet I have bought this year, five stars.",Positive
+ORD200201,Monitor,Shipped,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200202,Monitor,Cancelled,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200203,Printer,Shipped,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200204,Laptop,Cancelled,"This laptop is not worth the price, very disappointing.",Negative
+ORD200205,Desk,Returned,"The desk is not what I expected, poor quality overall.",Negative
+ORD200206,Laptop,Returned,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200207,Phone,Delivered,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200208,Desk,Shipped,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200209,Tablet,Returned,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200210,Chair,Delivered,I was worried at first but the chair turned out to be really good.,Positive
+ORD200211,Printer,Pending,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200212,Monitor,Cancelled,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200213,Laptop,Cancelled,The laptop never worked properly from day one.,Negative
+ORD200214,Desk,Delivered,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200215,Printer,Shipped,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200216,Monitor,Cancelled,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200217,Desk,Returned,"The desk is not what I expected, poor quality overall.",Negative
+ORD200218,Tablet,Shipped,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200219,Laptop,Delivered,"Great value for money, the laptop works flawlessly.",Positive
+ORD200220,Laptop,Pending,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200221,Tablet,Pending,"This tablet is not worth the price, very disappointing.",Negative
+ORD200222,Chair,Shipped,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200223,Phone,Pending,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200224,Printer,Cancelled,"Regret buying this printer, customer service was no help either.",Negative
+ORD200225,Phone,Returned,"The phone is not what I expected, poor quality overall.",Negative
+ORD200226,Desk,Delivered,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200227,Monitor,Cancelled,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200228,Chair,Cancelled,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200229,Tablet,Delivered,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200230,Desk,Delivered,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200231,Phone,Pending,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200232,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200233,Phone,Cancelled,"The phone is not what I expected, poor quality overall.",Negative
+ORD200234,Printer,Pending,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200235,Desk,Pending,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200236,Monitor,Pending,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200237,Monitor,Shipped,"Best monitor I have bought this year, five stars.",Positive
+ORD200238,Desk,Pending,"Best desk I have bought this year, five stars.",Positive
+ORD200239,Tablet,Shipped,"Absolutely love this tablet, works perfectly and arrived on time.",Positive
+ORD200240,Tablet,Pending,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200241,Chair,Pending,"This chair is not worth the price, very disappointing.",Negative
+ORD200242,Printer,Pending,Shipping took forever and the printer was not even functional.,Negative
+ORD200243,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD200244,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD200245,Laptop,Returned,"I am not happy with this laptop, complete waste of money.",Negative
+ORD200246,Desk,Shipped,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD200247,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200248,Laptop,Shipped,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD200249,Printer,Pending,"This printer is not worth the price, very disappointing.",Negative
+ORD200250,Desk,Returned,"The desk is not what I expected, poor quality overall.",Negative
+ORD200251,Monitor,Cancelled,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200252,Phone,Cancelled,"The phone is not what I expected, poor quality overall.",Negative
+ORD200253,Chair,Returned,"Awful build quality, would not recommend this chair to anyone.",Negative
+ORD200254,Monitor,Delivered,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200255,Monitor,Returned,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200256,Chair,Returned,"I am not happy with this chair, complete waste of money.",Negative
+ORD200257,Phone,Cancelled,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200258,Tablet,Shipped,"Great value for money, the tablet works flawlessly.",Positive
+ORD200259,Chair,Delivered,I was worried at first but the chair turned out to be really good.,Positive
+ORD200260,Monitor,Shipped,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200261,Phone,Delivered,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200262,Phone,Returned,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200263,Phone,Pending,"Regret buying this phone, customer service was no help either.",Negative
+ORD200264,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200265,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200266,Chair,Cancelled,The chair never worked properly from day one.,Negative
+ORD200267,Chair,Delivered,"Best chair I have bought this year, five stars.",Positive
+ORD200268,Phone,Delivered,"This phone is not bad at all, actually pretty amazing for the price.",Positive
+ORD200269,Tablet,Pending,"Super happy with my tablet purchase, no complaints so far.",Positive
+ORD200270,Printer,Shipped,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200271,Monitor,Shipped,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200272,Chair,Pending,Shipping took forever and the chair was not even functional.,Negative
+ORD200273,Tablet,Cancelled,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200274,Phone,Cancelled,The phone never worked properly from day one.,Negative
+ORD200275,Chair,Cancelled,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200276,Printer,Returned,I was worried at first but the printer turned out to be really good.,Positive
+ORD200277,Chair,Delivered,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200278,Laptop,Delivered,"Super happy with my laptop purchase, no complaints so far.",Positive
+ORD200279,Chair,Pending,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200280,Tablet,Delivered,"Great value for money, the tablet works flawlessly.",Positive
+ORD200281,Desk,Pending,The desk never worked properly from day one.,Negative
+ORD200282,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200283,Laptop,Shipped,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200284,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200285,Phone,Delivered,"Great value for money, the phone works flawlessly.",Positive
+ORD200286,Monitor,Returned,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200287,Chair,Shipped,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200288,Laptop,Returned,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200289,Chair,Shipped,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD200290,Chair,Delivered,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200291,Phone,Delivered,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200292,Monitor,Delivered,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD200293,Tablet,Returned,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200294,Phone,Shipped,"I am not happy with this phone, complete waste of money.",Negative
+ORD200295,Printer,Cancelled,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200296,Desk,Cancelled,"I am not happy with this desk, complete waste of money.",Negative
+ORD200297,Desk,Returned,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200298,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200299,Monitor,Cancelled,The monitor never worked properly from day one.,Negative
+ORD200300,Phone,Returned,"The phone is not what I expected, poor quality overall.",Negative
+ORD200301,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200302,Chair,Pending,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200303,Tablet,Returned,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200304,Monitor,Delivered,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200305,Laptop,Pending,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200306,Printer,Returned,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200307,Laptop,Delivered,"Great value for money, the laptop works flawlessly.",Positive
+ORD200308,Printer,Returned,I was worried at first but the printer turned out to be really good.,Positive
+ORD200309,Chair,Delivered,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200310,Printer,Shipped,"Great value for money, the printer works flawlessly.",Positive
+ORD200311,Desk,Returned,Shipping took forever and the desk was not even functional.,Negative
+ORD200312,Printer,Pending,The printer never worked properly from day one.,Negative
+ORD200313,Chair,Delivered,"Best chair I have bought this year, five stars.",Positive
+ORD200314,Desk,Delivered,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200315,Tablet,Cancelled,"This tablet is not worth the price, very disappointing.",Negative
+ORD200316,Desk,Shipped,Shipping took forever and the desk was not even functional.,Negative
+ORD200317,Monitor,Returned,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200318,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200319,Laptop,Returned,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200320,Printer,Shipped,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200321,Phone,Cancelled,Shipping took forever and the phone was not even functional.,Negative
+ORD200322,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD200323,Laptop,Returned,Shipping took forever and the laptop was not even functional.,Negative
+ORD200324,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200325,Desk,Shipped,"Great value for money, the desk works flawlessly.",Positive
+ORD200326,Laptop,Returned,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200327,Phone,Cancelled,"Regret buying this phone, customer service was no help either.",Negative
+ORD200328,Tablet,Cancelled,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200329,Chair,Shipped,"Best chair I have bought this year, five stars.",Positive
+ORD200330,Desk,Pending,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200331,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD200332,Desk,Pending,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200333,Phone,Returned,Shipping took forever and the phone was not even functional.,Negative
+ORD200334,Chair,Delivered,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD200335,Tablet,Shipped,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD200336,Laptop,Pending,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200337,Tablet,Returned,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200338,Phone,Shipped,"Best phone I have bought this year, five stars.",Positive
+ORD200339,Printer,Pending,The printer never worked properly from day one.,Negative
+ORD200340,Laptop,Cancelled,"This laptop is not worth the price, very disappointing.",Negative
+ORD200341,Tablet,Shipped,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200342,Monitor,Returned,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200343,Printer,Pending,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200344,Tablet,Cancelled,"This tablet is not worth the price, very disappointing.",Negative
+ORD200345,Tablet,Shipped,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200346,Tablet,Pending,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200347,Printer,Pending,The printer is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200348,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200349,Chair,Delivered,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200350,Chair,Shipped,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200351,Laptop,Delivered,"Excellent laptop, would definitely buy again. Highly recommend!",Positive
+ORD200352,Chair,Pending,"Best chair I have bought this year, five stars.",Positive
+ORD200353,Tablet,Delivered,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD200354,Phone,Shipped,"This phone is not worth the price, very disappointing.",Negative
+ORD200355,Tablet,Cancelled,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200356,Printer,Cancelled,Shipping took forever and the printer was not even functional.,Negative
+ORD200357,Laptop,Delivered,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200358,Tablet,Cancelled,Shipping took forever and the tablet was not even functional.,Negative
+ORD200359,Desk,Delivered,"Great value for money, the desk works flawlessly.",Positive
+ORD200360,Phone,Pending,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200361,Printer,Delivered,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200362,Monitor,Cancelled,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200363,Laptop,Pending,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200364,Phone,Cancelled,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200365,Phone,Cancelled,"Regret buying this phone, customer service was no help either.",Negative
+ORD200366,Printer,Pending,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200367,Laptop,Pending,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200368,Monitor,Cancelled,The monitor never worked properly from day one.,Negative
+ORD200369,Monitor,Pending,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200370,Phone,Cancelled,"This phone is not worth the price, very disappointing.",Negative
+ORD200371,Phone,Pending,"Fast delivery and the phone feels premium, very satisfied.",Positive
+ORD200372,Chair,Returned,"Regret buying this chair, customer service was no help either.",Negative
+ORD200373,Laptop,Pending,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD200374,Monitor,Pending,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200375,Monitor,Shipped,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD200376,Monitor,Pending,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200377,Monitor,Pending,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200378,Chair,Pending,"I am not happy with this chair, complete waste of money.",Negative
+ORD200379,Phone,Shipped,"Best phone I have bought this year, five stars.",Positive
+ORD200380,Printer,Pending,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200381,Chair,Returned,"Regret buying this chair, customer service was no help either.",Negative
+ORD200382,Printer,Shipped,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200383,Chair,Pending,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200384,Chair,Returned,Shipping took forever and the chair was not even functional.,Negative
+ORD200385,Chair,Delivered,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200386,Tablet,Returned,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200387,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200388,Printer,Pending,"Best printer I have bought this year, five stars.",Positive
+ORD200389,Desk,Shipped,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200390,Printer,Delivered,"I am not happy with this printer, complete waste of money.",Negative
+ORD200391,Laptop,Cancelled,"I am not happy with this laptop, complete waste of money.",Negative
+ORD200392,Phone,Delivered,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200393,Printer,Returned,"Regret buying this printer, customer service was no help either.",Negative
+ORD200394,Desk,Shipped,Shipping took forever and the desk was not even functional.,Negative
+ORD200395,Phone,Delivered,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200396,Tablet,Shipped,"Super happy with my tablet purchase, no complaints so far.",Positive
+ORD200397,Monitor,Cancelled,Shipping took forever and the monitor was not even functional.,Negative
+ORD200398,Phone,Shipped,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200399,Tablet,Returned,I was worried at first but the tablet turned out to be really good.,Positive
+ORD200400,Desk,Returned,"Regret buying this desk, customer service was no help either.",Negative
+ORD200401,Printer,Returned,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200402,Printer,Shipped,The printer is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200403,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200404,Monitor,Delivered,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200405,Monitor,Cancelled,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200406,Tablet,Returned,Shipping took forever and the tablet was not even functional.,Negative
+ORD200407,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200408,Printer,Pending,The printer never worked properly from day one.,Negative
+ORD200409,Desk,Delivered,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD200410,Tablet,Shipped,Shipping took forever and the tablet was not even functional.,Negative
+ORD200411,Desk,Shipped,"Great value for money, the desk works flawlessly.",Positive
+ORD200412,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200413,Tablet,Delivered,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200414,Desk,Delivered,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD200415,Chair,Shipped,I was worried at first but the chair turned out to be really good.,Positive
+ORD200416,Laptop,Cancelled,"This laptop is not worth the price, very disappointing.",Negative
+ORD200417,Laptop,Cancelled,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200418,Printer,Cancelled,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200419,Tablet,Pending,I was worried at first but the tablet turned out to be really good.,Positive
+ORD200420,Phone,Shipped,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200421,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD200422,Phone,Returned,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200423,Printer,Cancelled,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200424,Chair,Pending,Shipping took forever and the chair was not even functional.,Negative
+ORD200425,Laptop,Returned,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD200426,Monitor,Cancelled,"This monitor is not worth the price, very disappointing.",Negative
+ORD200427,Desk,Pending,"Super happy with my desk purchase, no complaints so far.",Positive
+ORD200428,Chair,Cancelled,Shipping took forever and the chair was not even functional.,Negative
+ORD200429,Printer,Pending,The printer is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200430,Phone,Shipped,"I am not happy with this phone, complete waste of money.",Negative
+ORD200431,Printer,Cancelled,"The printer was not good, arrived damaged and support was unhelpful.",Negative
+ORD200432,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200433,Monitor,Returned,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200434,Printer,Returned,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200435,Printer,Returned,"I am not happy with this printer, complete waste of money.",Negative
+ORD200436,Laptop,Pending,"Super happy with my laptop purchase, no complaints so far.",Positive
+ORD200437,Phone,Delivered,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200438,Tablet,Pending,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200439,Tablet,Shipped,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200440,Desk,Pending,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200441,Printer,Returned,"Regret buying this printer, customer service was no help either.",Negative
+ORD200442,Chair,Pending,"I am not happy with this chair, complete waste of money.",Negative
+ORD200443,Chair,Returned,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200444,Printer,Shipped,The printer never worked properly from day one.,Negative
+ORD200445,Phone,Delivered,"Best phone I have bought this year, five stars.",Positive
+ORD200446,Laptop,Delivered,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200447,Printer,Returned,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200448,Laptop,Pending,"Regret buying this laptop, customer service was no help either.",Negative
+ORD200449,Tablet,Pending,Shipping took forever and the tablet was not even functional.,Negative
+ORD200450,Monitor,Returned,Shipping took forever and the monitor was not even functional.,Negative
+ORD200451,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200452,Printer,Pending,"Best printer I have bought this year, five stars.",Positive
+ORD200453,Tablet,Shipped,"Great value for money, the tablet works flawlessly.",Positive
+ORD200454,Laptop,Cancelled,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200455,Phone,Pending,"The phone is not what I expected, poor quality overall.",Negative
+ORD200456,Desk,Shipped,The desk never worked properly from day one.,Negative
+ORD200457,Desk,Returned,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD200458,Monitor,Returned,The monitor never worked properly from day one.,Negative
+ORD200459,Desk,Returned,"I am not happy with this desk, complete waste of money.",Negative
+ORD200460,Laptop,Returned,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD200461,Tablet,Shipped,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200462,Phone,Cancelled,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200463,Laptop,Shipped,Shipping took forever and the laptop was not even functional.,Negative
+ORD200464,Tablet,Cancelled,Shipping took forever and the tablet was not even functional.,Negative
+ORD200465,Printer,Cancelled,"Excellent printer, would definitely buy again. Highly recommend!",Positive
+ORD200466,Phone,Delivered,"Excellent phone, would definitely buy again. Highly recommend!",Positive
+ORD200467,Desk,Cancelled,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200468,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD200469,Chair,Cancelled,"Awful build quality, would not recommend this chair to anyone.",Negative
+ORD200470,Tablet,Shipped,"This tablet is not worth the price, very disappointing.",Negative
+ORD200471,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200472,Chair,Cancelled,Shipping took forever and the chair was not even functional.,Negative
+ORD200473,Chair,Shipped,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200474,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200475,Tablet,Cancelled,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200476,Phone,Returned,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200477,Phone,Shipped,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200478,Tablet,Shipped,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200479,Monitor,Pending,"Super happy with my monitor purchase, no complaints so far.",Positive
+ORD200480,Chair,Pending,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200481,Laptop,Delivered,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200482,Monitor,Pending,"Great value for money, the monitor works flawlessly.",Positive
+ORD200483,Phone,Pending,"This phone is not bad at all, actually pretty amazing for the price.",Positive
+ORD200484,Chair,Cancelled,"Regret buying this chair, customer service was no help either.",Negative
+ORD200485,Chair,Shipped,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200486,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200487,Printer,Pending,The printer never worked properly from day one.,Negative
+ORD200488,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200489,Tablet,Cancelled,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200490,Chair,Cancelled,Shipping took forever and the chair was not even functional.,Negative
+ORD200491,Phone,Pending,Shipping took forever and the phone was not even functional.,Negative
+ORD200492,Laptop,Shipped,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200493,Phone,Pending,Shipping took forever and the phone was not even functional.,Negative
+ORD200494,Laptop,Pending,"This laptop is not worth the price, very disappointing.",Negative
+ORD200495,Phone,Pending,"Fast delivery and the phone feels premium, very satisfied.",Positive
+ORD200496,Printer,Cancelled,"Regret buying this printer, customer service was no help either.",Negative
+ORD200497,Printer,Shipped,I was worried at first but the printer turned out to be really good.,Positive
+ORD200498,Tablet,Returned,Shipping took forever and the tablet was not even functional.,Negative
+ORD200499,Printer,Shipped,"The printer is not what I expected, poor quality overall.",Negative
+ORD200500,Laptop,Returned,Shipping took forever and the laptop was not even functional.,Negative
+ORD200501,Desk,Pending,I was worried at first but the desk turned out to be really good.,Positive
+ORD200502,Monitor,Returned,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200503,Tablet,Pending,"Super happy with my tablet purchase, no complaints so far.",Positive
+ORD200504,Monitor,Cancelled,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200505,Printer,Shipped,The printer is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200506,Monitor,Returned,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200507,Phone,Pending,Shipping took forever and the phone was not even functional.,Negative
+ORD200508,Phone,Delivered,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200509,Laptop,Returned,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200510,Printer,Delivered,"Great value for money, the printer works flawlessly.",Positive
+ORD200511,Monitor,Delivered,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD200512,Desk,Pending,"I am not happy with this desk, complete waste of money.",Negative
+ORD200513,Tablet,Shipped,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD200514,Printer,Shipped,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200515,Phone,Shipped,"Great value for money, the phone works flawlessly.",Positive
+ORD200516,Monitor,Returned,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200517,Tablet,Cancelled,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200518,Printer,Pending,"I am not happy with this printer, complete waste of money.",Negative
+ORD200519,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200520,Monitor,Returned,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200521,Phone,Shipped,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200522,Chair,Cancelled,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200523,Desk,Returned,Shipping took forever and the desk was not even functional.,Negative
+ORD200524,Phone,Returned,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200525,Monitor,Shipped,"Great value for money, the monitor works flawlessly.",Positive
+ORD200526,Desk,Returned,Shipping took forever and the desk was not even functional.,Negative
+ORD200527,Chair,Cancelled,"I am not happy with this chair, complete waste of money.",Negative
+ORD200528,Chair,Returned,"The chair is not what I expected, poor quality overall.",Negative
+ORD200529,Tablet,Pending,The tablet never worked properly from day one.,Negative
+ORD200530,Chair,Pending,"This chair is not worth the price, very disappointing.",Negative
+ORD200531,Desk,Delivered,I was worried at first but the desk turned out to be really good.,Positive
+ORD200532,Laptop,Delivered,"Best laptop I have bought this year, five stars.",Positive
+ORD200533,Desk,Returned,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200534,Chair,Cancelled,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200535,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200536,Chair,Returned,"The chair is not what I expected, poor quality overall.",Negative
+ORD200537,Tablet,Delivered,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200538,Phone,Shipped,"This phone is not worth the price, very disappointing.",Negative
+ORD200539,Desk,Delivered,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200540,Laptop,Pending,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200541,Printer,Pending,Shipping took forever and the printer was not even functional.,Negative
+ORD200542,Tablet,Cancelled,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200543,Desk,Shipped,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200544,Printer,Returned,"The printer was not good, arrived damaged and support was unhelpful.",Negative
+ORD200545,Monitor,Returned,Shipping took forever and the monitor was not even functional.,Negative
+ORD200546,Monitor,Returned,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200547,Phone,Delivered,"I am not happy with this phone, complete waste of money.",Negative
+ORD200548,Printer,Delivered,"Great value for money, the printer works flawlessly.",Positive
+ORD200549,Monitor,Cancelled,"This monitor is not worth the price, very disappointing.",Negative
+ORD200550,Laptop,Shipped,"Excellent laptop, would definitely buy again. Highly recommend!",Positive
+ORD200551,Laptop,Delivered,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200552,Chair,Returned,"Regret buying this chair, customer service was no help either.",Negative
+ORD200553,Phone,Cancelled,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200554,Laptop,Returned,"Great value for money, the laptop works flawlessly.",Positive
+ORD200555,Tablet,Shipped,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200556,Laptop,Pending,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200557,Tablet,Pending,"Great value for money, the tablet works flawlessly.",Positive
+ORD200558,Phone,Delivered,"Great value for money, the phone works flawlessly.",Positive
+ORD200559,Desk,Cancelled,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200560,Monitor,Pending,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD200561,Printer,Shipped,Shipping took forever and the printer was not even functional.,Negative
+ORD200562,Laptop,Returned,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200563,Laptop,Returned,"Regret buying this laptop, customer service was no help either.",Negative
+ORD200564,Desk,Cancelled,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD200565,Tablet,Pending,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200566,Phone,Cancelled,"Regret buying this phone, customer service was no help either.",Negative
+ORD200567,Chair,Shipped,"Best chair I have bought this year, five stars.",Positive
+ORD200568,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200569,Desk,Shipped,"The desk is not what I expected, poor quality overall.",Negative
+ORD200570,Desk,Pending,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200571,Tablet,Returned,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200572,Printer,Returned,"Excellent printer, would definitely buy again. Highly recommend!",Positive
+ORD200573,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD200574,Chair,Pending,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200575,Chair,Returned,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200576,Laptop,Pending,"Great value for money, the laptop works flawlessly.",Positive
+ORD200577,Tablet,Returned,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200578,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200579,Tablet,Shipped,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD200580,Monitor,Delivered,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200581,Laptop,Delivered,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200582,Tablet,Shipped,"Great value for money, the tablet works flawlessly.",Positive
+ORD200583,Chair,Delivered,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200584,Chair,Delivered,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200585,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200586,Monitor,Returned,"This monitor is not worth the price, very disappointing.",Negative
+ORD200587,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200588,Monitor,Delivered,"Fast delivery and the monitor feels premium, very satisfied.",Positive
+ORD200589,Laptop,Delivered,I was worried at first but the laptop turned out to be really good.,Positive
+ORD200590,Printer,Returned,Shipping took forever and the printer was not even functional.,Negative
+ORD200591,Laptop,Shipped,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200592,Phone,Returned,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200593,Monitor,Shipped,"Excellent monitor, would definitely buy again. Highly recommend!",Positive
+ORD200594,Phone,Cancelled,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200595,Printer,Pending,"Regret buying this printer, customer service was no help either.",Negative
+ORD200596,Desk,Returned,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200597,Desk,Cancelled,"Regret buying this desk, customer service was no help either.",Negative
+ORD200598,Desk,Pending,Shipping took forever and the desk was not even functional.,Negative
+ORD200599,Chair,Cancelled,The chair never worked properly from day one.,Negative
+ORD200600,Printer,Cancelled,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200601,Monitor,Shipped,"This monitor is not worth the price, very disappointing.",Negative
+ORD200602,Tablet,Pending,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200603,Tablet,Pending,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD200604,Chair,Delivered,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200605,Monitor,Shipped,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD200606,Laptop,Cancelled,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200607,Printer,Shipped,"Great value for money, the printer works flawlessly.",Positive
+ORD200608,Laptop,Cancelled,Shipping took forever and the laptop was not even functional.,Negative
+ORD200609,Chair,Returned,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200610,Desk,Returned,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200611,Desk,Returned,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200612,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD200613,Laptop,Returned,"Best laptop I have bought this year, five stars.",Positive
+ORD200614,Phone,Cancelled,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200615,Monitor,Returned,The monitor never worked properly from day one.,Negative
+ORD200616,Tablet,Cancelled,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200617,Tablet,Cancelled,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200618,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200619,Laptop,Pending,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200620,Tablet,Returned,Shipping took forever and the tablet was not even functional.,Negative
+ORD200621,Phone,Delivered,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200622,Desk,Returned,"This desk is not worth the price, very disappointing.",Negative
+ORD200623,Printer,Cancelled,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200624,Tablet,Delivered,I was worried at first but the tablet turned out to be really good.,Positive
+ORD200625,Tablet,Pending,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200626,Tablet,Shipped,"Best tablet I have bought this year, five stars.",Positive
+ORD200627,Chair,Returned,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200628,Printer,Pending,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200629,Phone,Pending,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200630,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200631,Chair,Returned,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200632,Laptop,Delivered,I was worried at first but the laptop turned out to be really good.,Positive
+ORD200633,Laptop,Cancelled,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD200634,Printer,Delivered,"Best printer I have bought this year, five stars.",Positive
+ORD200635,Chair,Returned,The chair never worked properly from day one.,Negative
+ORD200636,Laptop,Cancelled,"I am not happy with this laptop, complete waste of money.",Negative
+ORD200637,Chair,Shipped,"Great value for money, the chair works flawlessly.",Positive
+ORD200638,Tablet,Delivered,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200639,Chair,Cancelled,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200640,Chair,Returned,"Regret buying this chair, customer service was no help either.",Negative
+ORD200641,Printer,Pending,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200642,Chair,Cancelled,The chair never worked properly from day one.,Negative
+ORD200643,Laptop,Cancelled,Shipping took forever and the laptop was not even functional.,Negative
+ORD200644,Chair,Shipped,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200645,Laptop,Cancelled,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200646,Chair,Shipped,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200647,Desk,Returned,"Regret buying this desk, customer service was no help either.",Negative
+ORD200648,Monitor,Delivered,"Super happy with my monitor purchase, no complaints so far.",Positive
+ORD200649,Monitor,Returned,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200650,Desk,Delivered,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD200651,Chair,Pending,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200652,Chair,Shipped,"I am not happy with this chair, complete waste of money.",Negative
+ORD200653,Printer,Shipped,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200654,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200655,Chair,Cancelled,The chair never worked properly from day one.,Negative
+ORD200656,Monitor,Shipped,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200657,Tablet,Cancelled,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200658,Printer,Returned,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200659,Phone,Delivered,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200660,Chair,Shipped,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200661,Tablet,Cancelled,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200662,Laptop,Returned,"Regret buying this laptop, customer service was no help either.",Negative
+ORD200663,Monitor,Cancelled,The monitor never worked properly from day one.,Negative
+ORD200664,Laptop,Shipped,I was worried at first but the laptop turned out to be really good.,Positive
+ORD200665,Tablet,Shipped,"Great value for money, the tablet works flawlessly.",Positive
+ORD200666,Monitor,Cancelled,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200667,Laptop,Pending,"Great value for money, the laptop works flawlessly.",Positive
+ORD200668,Monitor,Returned,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD200669,Desk,Cancelled,"Regret buying this desk, customer service was no help either.",Negative
+ORD200670,Desk,Pending,"Absolutely love this desk, works perfectly and arrived on time.",Positive
+ORD200671,Chair,Cancelled,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200672,Phone,Shipped,"This phone is not bad at all, actually pretty amazing for the price.",Positive
+ORD200673,Tablet,Delivered,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD200674,Laptop,Delivered,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200675,Desk,Pending,"The desk is not what I expected, poor quality overall.",Negative
+ORD200676,Laptop,Cancelled,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200677,Tablet,Cancelled,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200678,Chair,Shipped,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200679,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200680,Monitor,Returned,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD200681,Tablet,Shipped,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200682,Monitor,Cancelled,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200683,Desk,Pending,Shipping took forever and the desk was not even functional.,Negative
+ORD200684,Printer,Shipped,The printer is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200685,Desk,Shipped,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200686,Desk,Pending,"Great value for money, the desk works flawlessly.",Positive
+ORD200687,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200688,Monitor,Cancelled,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200689,Tablet,Shipped,"Regret buying this tablet, customer service was no help either.",Negative
+ORD200690,Monitor,Returned,"Best monitor I have bought this year, five stars.",Positive
+ORD200691,Laptop,Shipped,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200692,Desk,Delivered,"The desk exceeded my expectations, great quality and fast shipping!",Positive
+ORD200693,Monitor,Returned,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200694,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200695,Printer,Shipped,"Best printer I have bought this year, five stars.",Positive
+ORD200696,Chair,Pending,The chair is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200697,Printer,Shipped,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200698,Laptop,Delivered,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200699,Laptop,Cancelled,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200700,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200701,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200702,Printer,Returned,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200703,Desk,Pending,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200704,Desk,Delivered,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200705,Monitor,Returned,"Fast delivery and the monitor feels premium, very satisfied.",Positive
+ORD200706,Desk,Returned,"This desk is not worth the price, very disappointing.",Negative
+ORD200707,Chair,Cancelled,"I am not happy with this chair, complete waste of money.",Negative
+ORD200708,Printer,Pending,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200709,Desk,Pending,"Great value for money, the desk works flawlessly.",Positive
+ORD200710,Laptop,Returned,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD200711,Tablet,Shipped,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200712,Tablet,Pending,"Absolutely love this tablet, works perfectly and arrived on time.",Positive
+ORD200713,Tablet,Cancelled,The tablet never worked properly from day one.,Negative
+ORD200714,Laptop,Pending,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200715,Printer,Delivered,"Awful build quality, would not recommend this printer to anyone.",Negative
+ORD200716,Chair,Pending,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200717,Chair,Delivered,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200718,Laptop,Cancelled,The laptop never worked properly from day one.,Negative
+ORD200719,Laptop,Shipped,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200720,Desk,Pending,I was worried at first but the desk turned out to be really good.,Positive
+ORD200721,Desk,Delivered,"Great value for money, the desk works flawlessly.",Positive
+ORD200722,Printer,Pending,"This printer is not worth the price, very disappointing.",Negative
+ORD200723,Desk,Returned,I was worried at first but the desk turned out to be really good.,Positive
+ORD200724,Printer,Returned,"The printer was not good, arrived damaged and support was unhelpful.",Negative
+ORD200725,Chair,Returned,"I am not happy with this chair, complete waste of money.",Negative
+ORD200726,Laptop,Delivered,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200727,Chair,Shipped,Shipping took forever and the chair was not even functional.,Negative
+ORD200728,Desk,Shipped,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200729,Phone,Pending,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200730,Phone,Delivered,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200731,Printer,Returned,"This printer is not worth the price, very disappointing.",Negative
+ORD200732,Laptop,Delivered,"Best laptop I have bought this year, five stars.",Positive
+ORD200733,Tablet,Returned,"Great value for money, the tablet works flawlessly.",Positive
+ORD200734,Printer,Returned,"Regret buying this printer, customer service was no help either.",Negative
+ORD200735,Monitor,Pending,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200736,Monitor,Pending,"Excellent monitor, would definitely buy again. Highly recommend!",Positive
+ORD200737,Phone,Pending,"Regret buying this phone, customer service was no help either.",Negative
+ORD200738,Phone,Shipped,"I am not happy with this phone, complete waste of money.",Negative
+ORD200739,Phone,Delivered,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200740,Desk,Pending,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200741,Monitor,Delivered,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200742,Laptop,Returned,Shipping took forever and the laptop was not even functional.,Negative
+ORD200743,Monitor,Returned,"The monitor is not what I expected, poor quality overall.",Negative
+ORD200744,Tablet,Delivered,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200745,Printer,Pending,"The printer is not what I expected, poor quality overall.",Negative
+ORD200746,Desk,Cancelled,"Regret buying this desk, customer service was no help either.",Negative
+ORD200747,Tablet,Delivered,Shipping took forever and the tablet was not even functional.,Negative
+ORD200748,Tablet,Shipped,The tablet never worked properly from day one.,Negative
+ORD200749,Laptop,Pending,The laptop never worked properly from day one.,Negative
+ORD200750,Tablet,Returned,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200751,Tablet,Pending,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200752,Phone,Delivered,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200753,Phone,Returned,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200754,Printer,Returned,"Terrible experience, the printer stopped working within a week.",Negative
+ORD200755,Desk,Pending,"This desk is not worth the price, very disappointing.",Negative
+ORD200756,Phone,Shipped,"Disappointed with the phone, had to return it immediately.",Negative
+ORD200757,Desk,Delivered,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200758,Tablet,Cancelled,"This tablet is not worth the price, very disappointing.",Negative
+ORD200759,Desk,Pending,I was worried at first but the desk turned out to be really good.,Positive
+ORD200760,Desk,Cancelled,"The desk is not what I expected, poor quality overall.",Negative
+ORD200761,Desk,Delivered,"Great value for money, the desk works flawlessly.",Positive
+ORD200762,Phone,Returned,The phone never worked properly from day one.,Negative
+ORD200763,Laptop,Delivered,"Best laptop I have bought this year, five stars.",Positive
+ORD200764,Laptop,Cancelled,The laptop never worked properly from day one.,Negative
+ORD200765,Laptop,Returned,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200766,Printer,Pending,"Great value for money, the printer works flawlessly.",Positive
+ORD200767,Tablet,Delivered,"Awful build quality, would not recommend this tablet to anyone.",Negative
+ORD200768,Tablet,Cancelled,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200769,Printer,Delivered,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD200770,Desk,Returned,"I am not happy with this desk, complete waste of money.",Negative
+ORD200771,Phone,Cancelled,Shipping took forever and the phone was not even functional.,Negative
+ORD200772,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200773,Phone,Cancelled,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200774,Chair,Cancelled,"I am not happy with this chair, complete waste of money.",Negative
+ORD200775,Phone,Cancelled,"Regret buying this phone, customer service was no help either.",Negative
+ORD200776,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200777,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200778,Laptop,Shipped,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200779,Phone,Pending,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200780,Laptop,Cancelled,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200781,Phone,Delivered,"Fast delivery and the phone feels premium, very satisfied.",Positive
+ORD200782,Monitor,Returned,"The monitor was not good, arrived damaged and support was unhelpful.",Negative
+ORD200783,Printer,Returned,"Regret buying this printer, customer service was no help either.",Negative
+ORD200784,Laptop,Pending,"Excellent laptop, would definitely buy again. Highly recommend!",Positive
+ORD200785,Chair,Pending,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD200786,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD200787,Desk,Delivered,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200788,Chair,Pending,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200789,Tablet,Delivered,"Great value for money, the tablet works flawlessly.",Positive
+ORD200790,Laptop,Pending,"Best laptop I have bought this year, five stars.",Positive
+ORD200791,Chair,Pending,"This chair is not worth the price, very disappointing.",Negative
+ORD200792,Desk,Returned,The desk never worked properly from day one.,Negative
+ORD200793,Chair,Delivered,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200794,Printer,Delivered,"Great value for money, the printer works flawlessly.",Positive
+ORD200795,Laptop,Pending,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200796,Phone,Returned,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200797,Laptop,Returned,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD200798,Phone,Returned,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD200799,Laptop,Returned,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200800,Tablet,Returned,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200801,Printer,Pending,Shipping took forever and the printer was not even functional.,Negative
+ORD200802,Chair,Cancelled,Shipping took forever and the chair was not even functional.,Negative
+ORD200803,Monitor,Returned,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200804,Chair,Delivered,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200805,Laptop,Cancelled,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200806,Chair,Pending,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200807,Monitor,Delivered,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200808,Desk,Shipped,"This desk is not worth the price, very disappointing.",Negative
+ORD200809,Desk,Shipped,"Best desk I have bought this year, five stars.",Positive
+ORD200810,Tablet,Cancelled,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200811,Laptop,Shipped,"The laptop is not what I expected, poor quality overall.",Negative
+ORD200812,Phone,Cancelled,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200813,Laptop,Cancelled,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200814,Chair,Pending,"Great value for money, the chair works flawlessly.",Positive
+ORD200815,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200816,Tablet,Pending,The tablet never worked properly from day one.,Negative
+ORD200817,Chair,Delivered,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200818,Phone,Cancelled,Shipping took forever and the phone was not even functional.,Negative
+ORD200819,Phone,Cancelled,"This phone is not worth the price, very disappointing.",Negative
+ORD200820,Phone,Returned,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200821,Laptop,Delivered,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200822,Phone,Returned,"I am not happy with this phone, complete waste of money.",Negative
+ORD200823,Laptop,Shipped,"Great value for money, the laptop works flawlessly.",Positive
+ORD200824,Monitor,Returned,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200825,Desk,Returned,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200826,Printer,Returned,The printer never worked properly from day one.,Negative
+ORD200827,Tablet,Delivered,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD200828,Chair,Shipped,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD200829,Monitor,Delivered,"Great value for money, the monitor works flawlessly.",Positive
+ORD200830,Tablet,Delivered,I was worried at first but the tablet turned out to be really good.,Positive
+ORD200831,Printer,Pending,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD200832,Chair,Pending,I was worried at first but the chair turned out to be really good.,Positive
+ORD200833,Phone,Shipped,"Excellent phone, would definitely buy again. Highly recommend!",Positive
+ORD200834,Printer,Returned,"I am not happy with this printer, complete waste of money.",Negative
+ORD200835,Desk,Shipped,Shipping took forever and the desk was not even functional.,Negative
+ORD200836,Phone,Cancelled,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200837,Chair,Delivered,"Great value for money, the chair works flawlessly.",Positive
+ORD200838,Desk,Pending,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200839,Chair,Cancelled,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD200840,Chair,Delivered,"Great value for money, the chair works flawlessly.",Positive
+ORD200841,Printer,Delivered,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200842,Laptop,Pending,"This laptop is not worth the price, very disappointing.",Negative
+ORD200843,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200844,Chair,Returned,"The chair is not what I expected, poor quality overall.",Negative
+ORD200845,Phone,Delivered,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200846,Desk,Cancelled,Shipping took forever and the desk was not even functional.,Negative
+ORD200847,Printer,Shipped,"Best printer I have bought this year, five stars.",Positive
+ORD200848,Chair,Shipped,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200849,Printer,Cancelled,"The printer is not what I expected, poor quality overall.",Negative
+ORD200850,Monitor,Cancelled,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200851,Laptop,Cancelled,Shipping took forever and the laptop was not even functional.,Negative
+ORD200852,Desk,Pending,"Excellent desk, would definitely buy again. Highly recommend!",Positive
+ORD200853,Printer,Returned,Shipping took forever and the printer was not even functional.,Negative
+ORD200854,Laptop,Delivered,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD200855,Monitor,Shipped,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200856,Phone,Shipped,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200857,Phone,Delivered,"Super happy with my phone purchase, no complaints so far.",Positive
+ORD200858,Tablet,Pending,"I am not happy with this tablet, complete waste of money.",Negative
+ORD200859,Chair,Returned,"I am not happy with this chair, complete waste of money.",Negative
+ORD200860,Printer,Delivered,"Best printer I have bought this year, five stars.",Positive
+ORD200861,Desk,Shipped,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200862,Desk,Shipped,"The desk is not what I expected, poor quality overall.",Negative
+ORD200863,Phone,Pending,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD200864,Desk,Delivered,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200865,Monitor,Pending,"Best monitor I have bought this year, five stars.",Positive
+ORD200866,Desk,Cancelled,"Terrible experience, the desk stopped working within a week.",Negative
+ORD200867,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD200868,Monitor,Delivered,Shipping took forever and the monitor was not even functional.,Negative
+ORD200869,Desk,Delivered,I was worried at first but the desk turned out to be really good.,Positive
+ORD200870,Phone,Delivered,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200871,Tablet,Pending,"Great value for money, the tablet works flawlessly.",Positive
+ORD200872,Chair,Shipped,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD200873,Desk,Delivered,"Best desk I have bought this year, five stars.",Positive
+ORD200874,Chair,Delivered,"Best chair I have bought this year, five stars.",Positive
+ORD200875,Laptop,Delivered,"Excellent laptop, would definitely buy again. Highly recommend!",Positive
+ORD200876,Chair,Pending,"I am not happy with this chair, complete waste of money.",Negative
+ORD200877,Tablet,Pending,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD200878,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD200879,Phone,Shipped,"Excellent phone, would definitely buy again. Highly recommend!",Positive
+ORD200880,Laptop,Shipped,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD200881,Tablet,Pending,"Best tablet I have bought this year, five stars.",Positive
+ORD200882,Phone,Delivered,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200883,Printer,Delivered,"Best printer I have bought this year, five stars.",Positive
+ORD200884,Chair,Shipped,"Super happy with my chair purchase, no complaints so far.",Positive
+ORD200885,Laptop,Shipped,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD200886,Phone,Returned,"I am not happy with this phone, complete waste of money.",Negative
+ORD200887,Chair,Delivered,The chair is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200888,Laptop,Pending,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200889,Monitor,Cancelled,"Regret buying this monitor, customer service was no help either.",Negative
+ORD200890,Laptop,Pending,The laptop is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200891,Monitor,Returned,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD200892,Desk,Shipped,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200893,Monitor,Pending,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD200894,Tablet,Cancelled,The tablet never worked properly from day one.,Negative
+ORD200895,Chair,Pending,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD200896,Desk,Shipped,"Best desk I have bought this year, five stars.",Positive
+ORD200897,Laptop,Delivered,"Super happy with my laptop purchase, no complaints so far.",Positive
+ORD200898,Monitor,Shipped,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200899,Printer,Pending,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD200900,Laptop,Pending,"I am not happy with this laptop, complete waste of money.",Negative
+ORD200901,Tablet,Returned,Shipping took forever and the tablet was not even functional.,Negative
+ORD200902,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200903,Monitor,Pending,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200904,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200905,Laptop,Pending,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD200906,Monitor,Returned,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200907,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD200908,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200909,Tablet,Shipped,"Absolutely love this tablet, works perfectly and arrived on time.",Positive
+ORD200910,Printer,Delivered,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD200911,Desk,Cancelled,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD200912,Desk,Returned,The desk never worked properly from day one.,Negative
+ORD200913,Printer,Returned,The printer never worked properly from day one.,Negative
+ORD200914,Desk,Returned,"I am not happy with this desk, complete waste of money.",Negative
+ORD200915,Laptop,Shipped,"Regret buying this laptop, customer service was no help either.",Negative
+ORD200916,Printer,Returned,"The printer is not what I expected, poor quality overall.",Negative
+ORD200917,Laptop,Returned,Shipping took forever and the laptop was not even functional.,Negative
+ORD200918,Laptop,Delivered,Shipping took forever and the laptop was not even functional.,Negative
+ORD200919,Printer,Shipped,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200920,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD200921,Tablet,Cancelled,"This tablet is not worth the price, very disappointing.",Negative
+ORD200922,Desk,Pending,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD200923,Printer,Pending,"Great value for money, the printer works flawlessly.",Positive
+ORD200924,Printer,Returned,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD200925,Monitor,Shipped,"Fast delivery and the monitor feels premium, very satisfied.",Positive
+ORD200926,Desk,Delivered,"The desk exceeded my expectations, great quality and fast shipping!",Positive
+ORD200927,Laptop,Shipped,The laptop never worked properly from day one.,Negative
+ORD200928,Laptop,Returned,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD200929,Tablet,Pending,The tablet never worked properly from day one.,Negative
+ORD200930,Phone,Returned,The phone never worked properly from day one.,Negative
+ORD200931,Printer,Cancelled,"This printer is not worth the price, very disappointing.",Negative
+ORD200932,Laptop,Delivered,"Best laptop I have bought this year, five stars.",Positive
+ORD200933,Monitor,Shipped,I was worried at first but the monitor turned out to be really good.,Positive
+ORD200934,Laptop,Shipped,"Best laptop I have bought this year, five stars.",Positive
+ORD200935,Phone,Delivered,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200936,Chair,Delivered,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200937,Chair,Cancelled,"Terrible experience, the chair stopped working within a week.",Negative
+ORD200938,Chair,Cancelled,"Awful build quality, would not recommend this chair to anyone.",Negative
+ORD200939,Laptop,Delivered,"Great value for money, the laptop works flawlessly.",Positive
+ORD200940,Printer,Cancelled,"The printer is not what I expected, poor quality overall.",Negative
+ORD200941,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD200942,Tablet,Pending,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200943,Monitor,Returned,"Great value for money, the monitor works flawlessly.",Positive
+ORD200944,Laptop,Delivered,"Best laptop I have bought this year, five stars.",Positive
+ORD200945,Tablet,Shipped,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200946,Phone,Shipped,"I am not happy with this phone, complete waste of money.",Negative
+ORD200947,Phone,Returned,"Regret buying this phone, customer service was no help either.",Negative
+ORD200948,Phone,Cancelled,The phone never worked properly from day one.,Negative
+ORD200949,Desk,Pending,"Disappointed with the desk, had to return it immediately.",Negative
+ORD200950,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD200951,Printer,Returned,"This printer is not worth the price, very disappointing.",Negative
+ORD200952,Monitor,Pending,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200953,Phone,Shipped,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200954,Chair,Shipped,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD200955,Chair,Shipped,"Regret buying this chair, customer service was no help either.",Negative
+ORD200956,Phone,Delivered,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD200957,Monitor,Returned,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD200958,Desk,Delivered,"Regret buying this desk, customer service was no help either.",Negative
+ORD200959,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD200960,Laptop,Pending,"I am not happy with this laptop, complete waste of money.",Negative
+ORD200961,Phone,Shipped,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200962,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD200963,Chair,Shipped,"This chair is not bad at all, actually pretty amazing for the price.",Positive
+ORD200964,Phone,Cancelled,"Absolutely love this phone, works perfectly and arrived on time.",Positive
+ORD200965,Laptop,Cancelled,Shipping took forever and the laptop was not even functional.,Negative
+ORD200966,Monitor,Cancelled,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200967,Tablet,Returned,"The tablet is not what I expected, poor quality overall.",Negative
+ORD200968,Monitor,Shipped,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200969,Desk,Shipped,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD200970,Desk,Delivered,"Best desk I have bought this year, five stars.",Positive
+ORD200971,Monitor,Cancelled,"Awful build quality, would not recommend this monitor to anyone.",Negative
+ORD200972,Laptop,Delivered,Shipping took forever and the laptop was not even functional.,Negative
+ORD200973,Desk,Pending,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200974,Desk,Cancelled,Shipping took forever and the desk was not even functional.,Negative
+ORD200975,Desk,Returned,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD200976,Tablet,Returned,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD200977,Chair,Pending,"The chair is not what I expected, poor quality overall.",Negative
+ORD200978,Printer,Delivered,"Disappointed with the printer, had to return it immediately.",Negative
+ORD200979,Monitor,Delivered,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD200980,Chair,Delivered,"Disappointed with the chair, had to return it immediately.",Negative
+ORD200981,Phone,Pending,"The phone is not what I expected, poor quality overall.",Negative
+ORD200982,Monitor,Shipped,"Fast delivery and the monitor feels premium, very satisfied.",Positive
+ORD200983,Monitor,Shipped,"Great value for money, the monitor works flawlessly.",Positive
+ORD200984,Desk,Shipped,"Super happy with my desk purchase, no complaints so far.",Positive
+ORD200985,Desk,Delivered,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200986,Laptop,Pending,The laptop never worked properly from day one.,Negative
+ORD200987,Phone,Pending,The phone never worked properly from day one.,Negative
+ORD200988,Desk,Cancelled,"I am not happy with this desk, complete waste of money.",Negative
+ORD200989,Laptop,Pending,"Super happy with my laptop purchase, no complaints so far.",Positive
+ORD200990,Phone,Pending,"Terrible experience, the phone stopped working within a week.",Negative
+ORD200991,Desk,Cancelled,Shipping took forever and the desk was not even functional.,Negative
+ORD200992,Printer,Pending,Shipping took forever and the printer was not even functional.,Negative
+ORD200993,Monitor,Delivered,"Best monitor I have bought this year, five stars.",Positive
+ORD200994,Tablet,Delivered,"Best tablet I have bought this year, five stars.",Positive
+ORD200995,Monitor,Pending,"I am not happy with this monitor, complete waste of money.",Negative
+ORD200996,Monitor,Delivered,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD200997,Laptop,Delivered,"The laptop exceeded my expectations, great quality and fast shipping!",Positive
+ORD200998,Phone,Cancelled,"This phone is not worth the price, very disappointing.",Negative
+ORD200999,Printer,Pending,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD201000,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD201001,Printer,Shipped,"Fast delivery and the printer feels premium, very satisfied.",Positive
+ORD201002,Tablet,Pending,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201003,Printer,Shipped,"Best printer I have bought this year, five stars.",Positive
+ORD201004,Chair,Pending,"I am not happy with this chair, complete waste of money.",Negative
+ORD201005,Printer,Returned,Shipping took forever and the printer was not even functional.,Negative
+ORD201006,Tablet,Delivered,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD201007,Monitor,Pending,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD201008,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD201009,Tablet,Delivered,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD201010,Monitor,Cancelled,"The monitor is not what I expected, poor quality overall.",Negative
+ORD201011,Phone,Shipped,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD201012,Printer,Returned,"I am not happy with this printer, complete waste of money.",Negative
+ORD201013,Laptop,Cancelled,"I am not happy with this laptop, complete waste of money.",Negative
+ORD201014,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD201015,Printer,Shipped,The printer never worked properly from day one.,Negative
+ORD201016,Tablet,Delivered,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201017,Chair,Delivered,"Disappointed with the chair, had to return it immediately.",Negative
+ORD201018,Laptop,Delivered,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD201019,Desk,Returned,"Regret buying this desk, customer service was no help either.",Negative
+ORD201020,Tablet,Delivered,"Great value for money, the tablet works flawlessly.",Positive
+ORD201021,Phone,Cancelled,"This phone is not worth the price, very disappointing.",Negative
+ORD201022,Tablet,Shipped,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201023,Laptop,Shipped,Shipping took forever and the laptop was not even functional.,Negative
+ORD201024,Chair,Pending,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD201025,Chair,Delivered,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD201026,Monitor,Delivered,"Excellent monitor, would definitely buy again. Highly recommend!",Positive
+ORD201027,Laptop,Returned,"Great value for money, the laptop works flawlessly.",Positive
+ORD201028,Desk,Cancelled,"Regret buying this desk, customer service was no help either.",Negative
+ORD201029,Desk,Shipped,"This desk is not bad at all, actually pretty amazing for the price.",Positive
+ORD201030,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD201031,Phone,Pending,"This phone is not worth the price, very disappointing.",Negative
+ORD201032,Chair,Delivered,I was worried at first but the chair turned out to be really good.,Positive
+ORD201033,Monitor,Delivered,"Excellent monitor, would definitely buy again. Highly recommend!",Positive
+ORD201034,Printer,Cancelled,Shipping took forever and the printer was not even functional.,Negative
+ORD201035,Laptop,Cancelled,"The laptop is not what I expected, poor quality overall.",Negative
+ORD201036,Phone,Shipped,I was worried at first but the phone turned out to be really good.,Positive
+ORD201037,Printer,Pending,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD201038,Tablet,Returned,"Disappointed with the tablet, had to return it immediately.",Negative
+ORD201039,Desk,Cancelled,"Regret buying this desk, customer service was no help either.",Negative
+ORD201040,Tablet,Delivered,"Great value for money, the tablet works flawlessly.",Positive
+ORD201041,Monitor,Shipped,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD201042,Tablet,Shipped,"Fast delivery and the tablet feels premium, very satisfied.",Positive
+ORD201043,Tablet,Shipped,I was worried at first but the tablet turned out to be really good.,Positive
+ORD201044,Printer,Delivered,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD201045,Laptop,Returned,"Disappointed with the laptop, had to return it immediately.",Negative
+ORD201046,Tablet,Shipped,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD201047,Chair,Shipped,"Excellent chair, would definitely buy again. Highly recommend!",Positive
+ORD201048,Monitor,Shipped,"Fast delivery and the monitor feels premium, very satisfied.",Positive
+ORD201049,Desk,Shipped,The desk is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD201050,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD201051,Monitor,Shipped,"This monitor is not worth the price, very disappointing.",Negative
+ORD201052,Tablet,Shipped,"The tablet is not what I expected, poor quality overall.",Negative
+ORD201053,Phone,Pending,"Regret buying this phone, customer service was no help either.",Negative
+ORD201054,Printer,Delivered,"Terrible experience, the printer stopped working within a week.",Negative
+ORD201055,Monitor,Delivered,"Best monitor I have bought this year, five stars.",Positive
+ORD201056,Phone,Pending,"Terrible experience, the phone stopped working within a week.",Negative
+ORD201057,Laptop,Shipped,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD201058,Desk,Returned,"Best desk I have bought this year, five stars.",Positive
+ORD201059,Desk,Returned,"The desk is not what I expected, poor quality overall.",Negative
+ORD201060,Tablet,Shipped,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201061,Laptop,Shipped,"Best laptop I have bought this year, five stars.",Positive
+ORD201062,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD201063,Desk,Shipped,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD201064,Laptop,Returned,"Best laptop I have bought this year, five stars.",Positive
+ORD201065,Printer,Delivered,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD201066,Desk,Cancelled,"This desk is not worth the price, very disappointing.",Negative
+ORD201067,Phone,Returned,"Regret buying this phone, customer service was no help either.",Negative
+ORD201068,Laptop,Shipped,"Fast delivery and the laptop feels premium, very satisfied.",Positive
+ORD201069,Monitor,Returned,"Disappointed with the monitor, had to return it immediately.",Negative
+ORD201070,Desk,Pending,The desk never worked properly from day one.,Negative
+ORD201071,Phone,Shipped,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD201072,Monitor,Cancelled,"Regret buying this monitor, customer service was no help either.",Negative
+ORD201073,Tablet,Returned,I was worried at first but the tablet turned out to be really good.,Positive
+ORD201074,Phone,Returned,"Terrible experience, the phone stopped working within a week.",Negative
+ORD201075,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD201076,Laptop,Shipped,"Terrible experience, the laptop stopped working within a week.",Negative
+ORD201077,Printer,Cancelled,Shipping took forever and the printer was not even functional.,Negative
+ORD201078,Desk,Returned,I was worried at first but the desk turned out to be really good.,Positive
+ORD201079,Phone,Delivered,"Excellent phone, would definitely buy again. Highly recommend!",Positive
+ORD201080,Laptop,Delivered,I was worried at first but the laptop turned out to be really good.,Positive
+ORD201081,Monitor,Pending,I was worried at first but the monitor turned out to be really good.,Positive
+ORD201082,Chair,Pending,I was worried at first but the chair turned out to be really good.,Positive
+ORD201083,Chair,Delivered,"Best chair I have bought this year, five stars.",Positive
+ORD201084,Phone,Pending,"Great value for money, the phone works flawlessly.",Positive
+ORD201085,Printer,Shipped,"Best printer I have bought this year, five stars.",Positive
+ORD201086,Tablet,Pending,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201087,Laptop,Shipped,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD201088,Desk,Shipped,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD201089,Tablet,Shipped,Shipping took forever and the tablet was not even functional.,Negative
+ORD201090,Monitor,Returned,"This monitor is not worth the price, very disappointing.",Negative
+ORD201091,Laptop,Pending,I was worried at first but the laptop turned out to be really good.,Positive
+ORD201092,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD201093,Phone,Returned,"I am not happy with this phone, complete waste of money.",Negative
+ORD201094,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD201095,Phone,Delivered,I was worried at first but the phone turned out to be really good.,Positive
+ORD201096,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD201097,Monitor,Shipped,"Absolutely love this monitor, works perfectly and arrived on time.",Positive
+ORD201098,Monitor,Delivered,"The monitor exceeded my expectations, great quality and fast shipping!",Positive
+ORD201099,Laptop,Cancelled,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD201100,Laptop,Cancelled,"The laptop was not good, arrived damaged and support was unhelpful.",Negative
+ORD201101,Monitor,Pending,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD201102,Chair,Shipped,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD201103,Laptop,Delivered,"Super happy with my laptop purchase, no complaints so far.",Positive
+ORD201104,Tablet,Shipped,The tablet is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD201105,Tablet,Cancelled,"Regret buying this tablet, customer service was no help either.",Negative
+ORD201106,Chair,Cancelled,"Awful build quality, would not recommend this chair to anyone.",Negative
+ORD201107,Tablet,Cancelled,"I am not happy with this tablet, complete waste of money.",Negative
+ORD201108,Laptop,Cancelled,"This laptop is not worth the price, very disappointing.",Negative
+ORD201109,Printer,Returned,"Disappointed with the printer, had to return it immediately.",Negative
+ORD201110,Chair,Shipped,"Best chair I have bought this year, five stars.",Positive
+ORD201111,Monitor,Cancelled,"I am not happy with this monitor, complete waste of money.",Negative
+ORD201112,Desk,Delivered,I was worried at first but the desk turned out to be really good.,Positive
+ORD201113,Desk,Delivered,"The desk exceeded my expectations, great quality and fast shipping!",Positive
+ORD201114,Tablet,Cancelled,The tablet never worked properly from day one.,Negative
+ORD201115,Laptop,Returned,"Awful build quality, would not recommend this laptop to anyone.",Negative
+ORD201116,Printer,Delivered,I was worried at first but the printer turned out to be really good.,Positive
+ORD201117,Chair,Shipped,I was worried at first but the chair turned out to be really good.,Positive
+ORD201118,Phone,Returned,"This phone is not worth the price, very disappointing.",Negative
+ORD201119,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD201120,Tablet,Pending,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201121,Phone,Returned,"The phone was not good, arrived damaged and support was unhelpful.",Negative
+ORD201122,Monitor,Returned,The monitor never worked properly from day one.,Negative
+ORD201123,Tablet,Shipped,"Excellent tablet, would definitely buy again. Highly recommend!",Positive
+ORD201124,Chair,Returned,"Disappointed with the chair, had to return it immediately.",Negative
+ORD201125,Desk,Cancelled,"Terrible experience, the desk stopped working within a week.",Negative
+ORD201126,Phone,Delivered,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD201127,Printer,Shipped,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD201128,Monitor,Cancelled,The monitor never worked properly from day one.,Negative
+ORD201129,Chair,Pending,"Regret buying this chair, customer service was no help either.",Negative
+ORD201130,Laptop,Returned,"Absolutely love this laptop, works perfectly and arrived on time.",Positive
+ORD201131,Phone,Pending,The phone is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD201132,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD201133,Printer,Returned,"The printer is not what I expected, poor quality overall.",Negative
+ORD201134,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD201135,Printer,Shipped,"The printer exceeded my expectations, great quality and fast shipping!",Positive
+ORD201136,Tablet,Pending,"This tablet is not bad at all, actually pretty amazing for the price.",Positive
+ORD201137,Printer,Pending,"Terrible experience, the printer stopped working within a week.",Negative
+ORD201138,Desk,Pending,Shipping took forever and the desk was not even functional.,Negative
+ORD201139,Chair,Cancelled,"Regret buying this chair, customer service was no help either.",Negative
+ORD201140,Printer,Cancelled,The printer never worked properly from day one.,Negative
+ORD201141,Chair,Cancelled,"This chair is not worth the price, very disappointing.",Negative
+ORD201142,Phone,Returned,"Disappointed with the phone, had to return it immediately.",Negative
+ORD201143,Chair,Pending,"Best chair I have bought this year, five stars.",Positive
+ORD201144,Desk,Cancelled,"Disappointed with the desk, had to return it immediately.",Negative
+ORD201145,Desk,Delivered,"Best desk I have bought this year, five stars.",Positive
+ORD201146,Monitor,Pending,Shipping took forever and the monitor was not even functional.,Negative
+ORD201147,Chair,Pending,"Fast delivery and the chair feels premium, very satisfied.",Positive
+ORD201148,Phone,Returned,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD201149,Chair,Pending,"Awful build quality, would not recommend this chair to anyone.",Negative
+ORD201150,Desk,Cancelled,"The desk was not good, arrived damaged and support was unhelpful.",Negative
+ORD201151,Chair,Cancelled,"The chair is not what I expected, poor quality overall.",Negative
+ORD201152,Tablet,Shipped,"The tablet exceeded my expectations, great quality and fast shipping!",Positive
+ORD201153,Monitor,Shipped,The monitor is not expensive but it does not feel cheap either. Loved it.,Positive
+ORD201154,Monitor,Pending,The monitor never worked properly from day one.,Negative
+ORD201155,Printer,Delivered,"This printer is not bad at all, actually pretty amazing for the price.",Positive
+ORD201156,Laptop,Shipped,I was worried at first but the laptop turned out to be really good.,Positive
+ORD201157,Monitor,Delivered,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD201158,Monitor,Pending,"Great value for money, the monitor works flawlessly.",Positive
+ORD201159,Desk,Returned,Shipping took forever and the desk was not even functional.,Negative
+ORD201160,Desk,Shipped,Shipping took forever and the desk was not even functional.,Negative
+ORD201161,Phone,Cancelled,"Awful build quality, would not recommend this phone to anyone.",Negative
+ORD201162,Phone,Delivered,"Best phone I have bought this year, five stars.",Positive
+ORD201163,Laptop,Returned,"This laptop is not worth the price, very disappointing.",Negative
+ORD201164,Tablet,Delivered,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD201165,Chair,Pending,"Terrible experience, the chair stopped working within a week.",Negative
+ORD201166,Chair,Delivered,"The chair was not good, arrived damaged and support was unhelpful.",Negative
+ORD201167,Printer,Pending,The printer never worked properly from day one.,Negative
+ORD201168,Laptop,Delivered,"This laptop is not bad at all, actually pretty amazing for the price.",Positive
+ORD201169,Chair,Cancelled,"I am not happy with this chair, complete waste of money.",Negative
+ORD201170,Printer,Returned,"Best printer I have bought this year, five stars.",Positive
+ORD201171,Phone,Delivered,"The phone exceeded my expectations, great quality and fast shipping!",Positive
+ORD201172,Desk,Pending,"Regret buying this desk, customer service was no help either.",Negative
+ORD201173,Monitor,Shipped,Shipping took forever and the monitor was not even functional.,Negative
+ORD201174,Printer,Returned,"Best printer I have bought this year, five stars.",Positive
+ORD201175,Printer,Returned,"The printer was not good, arrived damaged and support was unhelpful.",Negative
+ORD201176,Tablet,Cancelled,"Super happy with my tablet purchase, no complaints so far.",Positive
+ORD201177,Printer,Shipped,"Super happy with my printer purchase, no complaints so far.",Positive
+ORD201178,Monitor,Cancelled,I was worried at first but the monitor turned out to be really good.,Positive
+ORD201179,Laptop,Cancelled,"I am not happy with this laptop, complete waste of money.",Negative
+ORD201180,Chair,Pending,"Absolutely love this chair, works perfectly and arrived on time.",Positive
+ORD201181,Desk,Pending,"The desk is not what I expected, poor quality overall.",Negative
+ORD201182,Chair,Returned,"This chair is not worth the price, very disappointing.",Negative
+ORD201183,Desk,Shipped,"Great value for money, the desk works flawlessly.",Positive
+ORD201184,Laptop,Returned,The laptop never worked properly from day one.,Negative
+ORD201185,Chair,Returned,I was worried at first but the chair turned out to be really good.,Positive
+ORD201186,Monitor,Shipped,"This monitor is not bad at all, actually pretty amazing for the price.",Positive
+ORD201187,Desk,Delivered,"The desk is not what I expected, poor quality overall.",Negative
+ORD201188,Printer,Shipped,"Absolutely love this printer, works perfectly and arrived on time.",Positive
+ORD201189,Tablet,Cancelled,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD201190,Desk,Shipped,I was worried at first but the desk turned out to be really good.,Positive
+ORD201191,Desk,Pending,"Fast delivery and the desk feels premium, very satisfied.",Positive
+ORD201192,Chair,Pending,"The chair exceeded my expectations, great quality and fast shipping!",Positive
+ORD201193,Tablet,Returned,"Terrible experience, the tablet stopped working within a week.",Negative
+ORD201194,Printer,Pending,I was worried at first but the printer turned out to be really good.,Positive
+ORD201195,Desk,Cancelled,"Awful build quality, would not recommend this desk to anyone.",Negative
+ORD201196,Monitor,Cancelled,"Terrible experience, the monitor stopped working within a week.",Negative
+ORD201197,Tablet,Delivered,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
+ORD201198,Chair,Cancelled,"Regret buying this chair, customer service was no help either.",Negative
+ORD201199,Tablet,Returned,"The tablet was not good, arrived damaged and support was unhelpful.",Negative
